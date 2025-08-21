@@ -1,0 +1,3 @@
+pasta
+vegetables
+salt
