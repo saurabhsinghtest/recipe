@@ -5,3 +5,17 @@ This recipe is a simple yet delicious pasta dish made with fresh vegetables and 
 
 Recipe by: Saurabh Singh  
 Source: https://www.allrecipes.com/ 
+
+# My Recipe Project
+
+### About This Project
+### Ingredients
+- Flour
+- Sugar
+- Eggs
+- Milk
+
+This project shows how to make a **delicious cake** using *simple ingredients*.
+
+### Recipe Image
+![Recipe](recipe.png)
