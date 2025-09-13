@@ -16,3 +16,6 @@ Source: https://www.allrecipes.com/
 - Milk
 
 This project shows how to make a **delicious cake** using *simple ingredients*.
+
+### Recipe Image
+![Recipe](recipe.png)
