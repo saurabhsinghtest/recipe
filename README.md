@@ -14,3 +14,5 @@ Source: https://www.allrecipes.com/
 - Sugar
 - Eggs
 - Milk
+
+This project shows how to make a **delicious cake** using *simple ingredients*.
